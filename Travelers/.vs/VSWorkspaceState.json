@@ -1,0 +1,20 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App_Data",
+    "\\App_Start",
+    "\\bin",
+    "\\bin\\images",
+    "\\bin\\roslyn",
+    "\\CKFinderScripts",
+    "\\CKFinderScripts\\lang",
+    "\\ModalLoginPlugin",
+    "\\ModalLoginPlugin\\Models",
+    "\\Scripts",
+    "\\Scripts\\ckeditor",
+    "\\Views\\ModalLogin",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Context\\DatabaseContext.cs",
+  "PreviewInSolutionExplorer": false
+}
